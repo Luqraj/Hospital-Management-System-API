@@ -1,0 +1,15 @@
+HOSPITAL MANAGEMENT SYSTEM
+Develop a backend system to manage patients record, doctors and appointments in a hospital
+TECH STACK: node.js, express.js, PostgreSQL with ORM Prisma.
+REQUIREMENTS:
+a. CRUD operations for patients✅
+b. Search patients by name✅
+c. CRUD operations for doctors✅
+b. Search doctors by name✅
+d. Schedule appointments for a doctor or patient✅
+e. View appointments for a doctor or a patient✅
+f. Cancel or reschedule appointments✅
+g. Add user roles(e.g: admin for managing doctors, receptionist for managing patients)✅
+h. protect certain routes based on roles(e.g: only admins can manage doctors)✅
+i. Manage prescriptions✅
+j. Manage patient bills✅
